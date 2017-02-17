@@ -24,3 +24,13 @@ Height of multiplication table: 8
 for i in ['x', 'x', 'x', 'x']:
      for j in ['x','x']:
          print(i,i,i,i,i,i,i,i,i,i)
+         
+
+         
+         
+for i in ['x', ]:
+     for j in ['x',]:    
+         for k in ['x']:
+             for p in ['x']
+                for s in ['x']:
+             print(i,j,k,p,s)
