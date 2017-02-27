@@ -21,16 +21,9 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
-for i in ['x', 'x', 'x', 'x']:
-     for j in ['x','x']:
-         print(i,i,i,i,i,i,i,i,i,i)
-         
-
-         
-         
-for i in ['x', ]:
-     for j in ['x',]:    
-         for k in ['x']:
-             for p in ['x']
-                for s in ['x']:
-             print(i,j,k,p,s)
+ width=input("Width of multiplication table: ")
+ height=input("Height of multiplication table: ") 
+ x=int(width)+1 
+ y=int(height)+1 
+ for q in range(1,x): 
+     for r in range[1,y]: print(q*r)
